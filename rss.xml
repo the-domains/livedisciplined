@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[livedisciplined]]></title>
         <description><![CDATA[livedisciplined]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/livedisciplined/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 21:10:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 21:27:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/livedisciplined/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/099fbde5-89e7-4785-a582-bed5a2f61523.jpg" alt="" title="">]]></description>
-            <link>undefined78b18f4c-75e1-49b1-987a-ddc4c9e2fc45/index.html</link>
+            <title><![CDATA[Skys the limit ]]></title>
+            <description><![CDATA[<article><h1>Skys the limit </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46d9b40c1a9598a2e04bac888f4253dc79d94ec2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/livedisciplined/78b18f4c-75e1-49b1-987a-ddc4c9e2fc45/index.html</link>
             <guid isPermaLink="false">78b18f4c-75e1-49b1-987a-ddc4c9e2fc45</guid>
-            <pubDate>Wed, 23 Dec 2015 21:10:09 GMT</pubDate>
+            <pubDate>Wed, 23 Dec 2015 21:27:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
