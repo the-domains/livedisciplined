@@ -1,29 +1,41 @@
-name: livedisciplined
-favicon: null
-layout_spectrum: 0.10486593306995928
-typography_spectrum: 0.17892544879578054
-title: livedisciplined
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.1048659330699593
+title: livedisciplined
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.9946871399879456
+  brandStrength: 0.5177357229404151
+  rhythmicContrast: 0.841933272080496
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5177357229404151
   lightness: 0.54320348193869
-  saturation: 0.9946871399879456
-  rhythmicContrast: 0.841933272080496
 purpose: []
+favicon: null
+name: livedisciplined
+typography_spectrum: 0.1789254487957805
