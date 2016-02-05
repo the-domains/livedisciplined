@@ -1,41 +1,41 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: livedisciplined
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1048659330699593
-title: livedisciplined
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.9946871
+  brandStrength: 0.8476703
+  lightness: 0.5430108
+  brandColors:
+    - '#160B0C'
+    - '#FB0303'
+    - '#FBB403'
+    - '#FBFBF2'
+    - '#FAF191'
+  rhythmicContrast: 0.8419333
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.9946871399879456
-  brandStrength: 0.5177357229404151
-  rhythmicContrast: 0.841933272080496
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  lightness: 0.54320348193869
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: livedisciplined
-typography_spectrum: 0.1789254487957805
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7670251
+layout_spectrum: 1
